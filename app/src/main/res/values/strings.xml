@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LANTRAN</string>
+    <string name="todo">TODO</string>
+    <string name="language_translator">Language Translator</string>
+    <string name="source_text">Source Text</string>
+</resources>

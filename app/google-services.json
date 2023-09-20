@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024301280756",
+    "project_id": "lantran-d5032",
+    "storage_bucket": "lantran-d5032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024301280756:android:484ba0d7c0adb52c615da1",
+        "android_client_info": {
+          "package_name": "com.example.lantran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024301280756-jtfjmi55u8mv0gmo484sulh1l5uk790q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPv9vYF2QeHGUmT7ZPIus-2QQa-ZseoN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024301280756-jtfjmi55u8mv0gmo484sulh1l5uk790q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
